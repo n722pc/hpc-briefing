@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HPC &amp; HPAI Briefing</title>
+    <link>https://n722pc.github.io/hpc-briefing/</link>
+    <atom:link href="https://n722pc.github.io/hpc-briefing/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Private daily briefing on high performance computing and high performance AI: systems, accelerators, interconnects, policy and industry news. Hosts Ava and Ryan.</description>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Nov 2026 09:27:08 -0600</lastBuildDate>
+    <itunes:author>Michael Stevens</itunes:author>
+    <itunes:summary>Private daily briefing on high performance computing and high performance AI: systems, accelerators, interconnects, policy and industry news. Hosts Ava and Ryan.</itunes:summary>
+    <itunes:image href="https://n722pc.github.io/hpc-briefing/cover.png"/>
+    <image><url>https://n722pc.github.io/hpc-briefing/cover.png</url><title>HPC &amp; HPAI Briefing</title><link>https://n722pc.github.io/hpc-briefing/</link></image>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:block>Yes</itunes:block>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Daily update — Thu Nov 12, 2026</title>
+      <description>Jensen Huang resigns as Nvidia CEO with Colette Kress as interim chief, Commerce reportedly nears Blackwell licensing for Southeast Asia, plus CoreWeave and Nebius results and Oklahoma State's Cimarron going live.</description>
+      <itunes:summary>Jensen Huang resigns as Nvidia CEO with Colette Kress as interim chief, Commerce reportedly nears Blackwell licensing for Southeast Asia, plus CoreWeave and Nebius results and Oklahoma State's Cimarron going live.</itunes:summary>
+      <pubDate>Thu, 12 Nov 2026 05:30:00 -0600</pubDate>
+      <guid isPermaLink="false">briefing.2026-11-09.addendum.2026-11-12.mp3</guid>
+      <enclosure url="https://n722pc.github.io/hpc-briefing/episodes/briefing.2026-11-09.addendum.2026-11-12.mp3" length="3861100" type="audio/mpeg"/>
+      <itunes:duration>00:05:22</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Daily update — Wed Nov 11, 2026</title>
+      <description>AMD's sixth-generation EPYC Venice processors ship; plus three new items and four updates.</description>
+      <itunes:summary>AMD's sixth-generation EPYC Venice processors ship; plus three new items and four updates.</itunes:summary>
+      <pubDate>Wed, 11 Nov 2026 05:30:00 -0600</pubDate>
+      <guid isPermaLink="false">briefing.2026-11-09.addendum.2026-11-11.mp3</guid>
+      <enclosure url="https://n722pc.github.io/hpc-briefing/episodes/briefing.2026-11-09.addendum.2026-11-11.mp3" length="3882416" type="audio/mpeg"/>
+      <itunes:duration>00:05:24</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Daily update — Tue Nov 10, 2026</title>
+      <description>Let's start with markets, because Monday was a split screen. Nvidia closed down about four point three percent, at about one hundred seventy-nine dollars. That was its first full session since the board opened an independent investigation of Jensen Huang. Volume was about three point seven times normal. But the rest of the chip sector bounced hard after last week's selloff. The Philadelphia semiconductor index was up more than seven percent during the day, and the Nasdaq closed up almost three percent. AMD led, up about thirteen percent. Broadcom was up almost nine. So investors seem to be…</description>
+      <itunes:summary>Let's start with markets, because Monday was a split screen. Nvidia closed down about four point three percent, at about one hundred seventy-nine dollars. That was its first full session since the board opened an independent investigation of Jensen Huang. Volume was about three point seven times normal. But the rest of the chip sector bounced hard after last week's selloff. The Philadelphia semiconductor index was up more than seven percent during the day, and the Nasdaq closed up almost three percent. AMD led, up about thirteen percent. Broadcom was up almost nine. So investors seem to be…</itunes:summary>
+      <pubDate>Tue, 10 Nov 2026 05:30:00 -0600</pubDate>
+      <guid isPermaLink="false">briefing.2026-11-09.addendum.2026-11-10.mp3</guid>
+      <enclosure url="https://n722pc.github.io/hpc-briefing/episodes/briefing.2026-11-09.addendum.2026-11-10.mp3" length="3396538" type="audio/mpeg"/>
+      <itunes:duration>00:04:43</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Weekly briefing — Mon Nov 9, 2026</title>
+      <description>Let's start there. On Sunday, Nvidia's board said it is opening an independent investigation into chief executive Jensen Huang. What triggered it? Reporting, led by the New York Times, that US officials believe a former executive at Megaspeed, a Singapore data center firm, was recruited by China's Ministry of State Security. Reports say she and Huang had a relationship. She is no relation, despite sharing the surname. And these are reports, not findings. No one has been charged.</description>
+      <itunes:summary>Let's start there. On Sunday, Nvidia's board said it is opening an independent investigation into chief executive Jensen Huang. What triggered it? Reporting, led by the New York Times, that US officials believe a former executive at Megaspeed, a Singapore data center firm, was recruited by China's Ministry of State Security. Reports say she and Huang had a relationship. She is no relation, despite sharing the surname. And these are reports, not findings. No one has been charged.</itunes:summary>
+      <pubDate>Mon, 09 Nov 2026 05:30:00 -0600</pubDate>
+      <guid isPermaLink="false">briefing.2026-11-09.mp3</guid>
+      <enclosure url="https://n722pc.github.io/hpc-briefing/episodes/briefing.2026-11-09.mp3" length="5585809" type="audio/mpeg"/>
+      <itunes:duration>00:07:45</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
